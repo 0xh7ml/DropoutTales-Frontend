@@ -107,7 +107,7 @@ export default function Footer() {
         {/* Bottom Footer */}
         <div className="pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} Deshi Mula. All rights reserved.
+            © {new Date().getFullYear()} Dropout Tales. All rights reserved.
           </p>
           <p className="text-gray-500 text-sm flex items-center">
             Made with <Heart size={14} className="mx-1 text-red-500" /> in Bangladesh

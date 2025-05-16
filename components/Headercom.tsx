@@ -14,7 +14,7 @@ const Headercom = () => {
         <Link href="/" className="flex items-center gap-2 group">
           <Image
               src="/dtt01.png"
-              alt="Deshi Mula"
+              alt="Dropout Tales"
               width={90}
               height={70}
               className="h-12 w-auto"

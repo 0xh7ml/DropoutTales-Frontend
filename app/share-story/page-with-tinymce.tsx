@@ -224,10 +224,10 @@ export default function ShareStory() {
         <div className="container mx-auto px-4 py-3 flex justify-between items-center">
           <Link href="/" className="flex items-center gap-2 group">
             <div className="relative overflow-hidden rounded-full p-1 bg-gradient-to-r from-green-400 to-green-600 transition-all duration-300 group-hover:shadow-md">
-              <Image src="/logo.png" alt="Deshi Mula" width={40} height={40} className="h-8 w-auto" />
+              <Image src="/logo.png" alt="Dropout Tales" width={40} height={40} className="h-8 w-auto" />
             </div>
             <span className="text-lg font-semibold text-green-800 group-hover:text-green-600 transition-colors duration-300">
-              Deshi Mula
+              Dropout Tales
             </span>
           </Link>
           <Link

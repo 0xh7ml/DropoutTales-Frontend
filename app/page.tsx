@@ -241,20 +241,20 @@ export default function Home() {
               <X size={18} />
             </button>
             <p className="text-sm mb-2">
-              The information provided by Deshi Mula is for general informational purposes only. All content, including
+              The information provided by Dropout Tales is for general informational purposes only. All content, including
               reviews and comments, is user-generated and reflects the personal opinions and experiences of individual
               users.
             </p>
             <p className="text-sm mb-2">
-              Deshi Mula does not verify, endorse, or guarantee the accuracy, completeness, or reliability of any
+              Dropout Tales does not verify, endorse, or guarantee the accuracy, completeness, or reliability of any
               user-submitted content.
             </p>
             <p className="text-sm mb-2">
               The views and opinions expressed on this platform are solely those of the contributors and do not
-              represent the views of Deshi Mula or its administrators.
+              represent the views of Dropout Tales or its administrators.
             </p>
             <p className="text-sm mb-2">
-              Deshi Mula is not liable for any loss, damage, or consequences resulting from reliance on information
+              Dropout Tales is not liable for any loss, damage, or consequences resulting from reliance on information
               posted on this site.
             </p>
             <p className="text-sm">
